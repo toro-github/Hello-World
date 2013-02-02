@@ -1,2 +1,2 @@
 class stack
-version 2
+version 3
